@@ -1,6 +1,6 @@
 # Auto Hide Zendesk Composer
 
-This is a user script to automatically hide the Zendesk reply composer when there is no content written.
+This is a user script to automatically hide the Zendesk reply composer when there is no draft reply written on the ticket. This only applies to the Zendesk Agent Workspace and not the legacy Zendesk workspaces. 
 
 By default, the Zendesk reply composer shows itself when it has been shown on the previously viewed ticket. This user script hides the reply composer in all cases except when you have a draft written for a ticket - if a draft is written, that ticket's composer will not be hidden.
 
