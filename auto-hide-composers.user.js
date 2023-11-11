@@ -4,6 +4,7 @@
 // @match       https://*.zendesk.com/*
 // @grant       none
 // @version     1.0
+// @downloadURL https://raw.githubusercontent.com/BagToad/Auto-Hide-Zendesk-Composer/main/auto-hide-composers.user.js
 // @author      Kynan Ware
 // @description Automatically hide the composer if there is no draft reply text.
 // @inject-into content
