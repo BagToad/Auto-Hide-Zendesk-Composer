@@ -6,4 +6,6 @@ By default, the Zendesk reply composer shows itself when it has been shown on th
 
 This user script was written for [ViolentMonkey](https://violentmonkey.github.io/), but can likely work with other user script managers. 
 
-To import the user script click [here](https://raw.githubusercontent.com/BagToad/Auto-Hide-Zendesk-Composer/main/auto-hide-composers.user.js)
+To use this script, make sure you have a user script manager installed, then click [here](https://raw.githubusercontent.com/BagToad/Auto-Hide-Zendesk-Composer/main/auto-hide-composers.user.js).
+
+If you have trouble importing, you can copy and paste [the script](https://github.com/BagToad/Auto-Hide-Zendesk-Composer/blob/main/auto-hide-composers.user.js) into a new user script in your user script manager manually. 
