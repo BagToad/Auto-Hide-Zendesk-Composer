@@ -1,11 +1,18 @@
-# Auto Hide Zendesk Composer
+# Auto-Hide Zendesk Composer - A User Script
 
-This is a user script to automatically hide the Zendesk reply composer when there is no draft reply written on the ticket. This only applies to the Zendesk Agent Workspace and not the legacy Zendesk workspaces. 
+Auto-Hide Zendesk Composer is a user script designed to streamline your experience with Zendesk by automatically hiding the reply composer when no draft reply exists on a ticket. This feature is specific to the Zendesk Agent Workspace and does not apply to older legacy Zendesk versions.
 
-By default, the Zendesk reply composer shows itself when it has been shown on the previously viewed ticket. This user script hides the reply composer in all cases except when you have a draft written for a ticket - if a draft is written, that ticket's composer will not be hidden.
+## Why this User Script?
 
-This user script was written for [ViolentMonkey](https://violentmonkey.github.io/), but can likely work with other user script managers. 
+Zendesk's current default setting keeps the reply composer open based on its state in the previously viewed ticket. This could create unwanted clutter, particularly when there's no draft written. This user script ensures a more organized workspace by hiding the reply composer unless a draft is present.
 
-To use this script, make sure you have a user script manager installed, then click [here](https://raw.githubusercontent.com/BagToad/Auto-Hide-Zendesk-Composer/main/auto-hide-composers.user.js).
+## Compatibility and Installation
 
-If you have trouble importing, you can copy and paste [the script](https://github.com/BagToad/Auto-Hide-Zendesk-Composer/blob/main/auto-hide-composers.user.js) into a new user script in your user script manager manually. 
+This script is primarily written for [ViolentMonkey](https://violentmonkey.github.io/), one of the popular userscript managers. However, it may be compatible with other user script managers as well - do give it a try!
+
+To install this script, follow these simple steps:
+
+-   Make sure you have a user script manager installed.
+-   Click [here](https://raw.githubusercontent.com/BagToad/Auto-Hide-Zendesk-Composer/main/auto-hide-composers.user.js) to directly import the script.
+
+Having trouble importing? Not to worry. You can manually copy and paste [the script](https://github.com/BagToad/Auto-Hide-Zendesk-Composer/blob/main/auto-hide-composers.user.js) into a new user script in your user script manager.
