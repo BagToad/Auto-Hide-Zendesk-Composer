@@ -16,3 +16,7 @@ To install this script, follow these simple steps:
 -   Click [here](https://raw.githubusercontent.com/BagToad/Auto-Hide-Zendesk-Composer/main/auto-hide-composers.user.js) to directly import the script.
 
 Having trouble importing? Not to worry. You can manually copy and paste [the script](https://github.com/BagToad/Auto-Hide-Zendesk-Composer/blob/main/auto-hide-composers.user.js) into a new user script in your user script manager.
+
+## More Zendesk Automations
+
+Do you work with long tickets? Check out my other app to aggregate links in Zendesk tickets - [Zendesk Link Collector](https://github.com/BagToad/Zendesk-Link-Collector)!
